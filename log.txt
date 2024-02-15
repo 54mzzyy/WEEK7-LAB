@@ -1,0 +1,17 @@
+commit 932563e7b3ff262240c94772bddbcfbed3540f58
+Author: Samuel <54mx18@gmail.com>
+Date:   Thu Feb 15 21:31:10 2024 +0300
+
+    Organised the repository
+
+commit 03b98fd2ab561b2e221de872f63a49baafff7ac2
+Author: Samuel <54mx18@gmail.com>
+Date:   Thu Feb 15 21:29:05 2024 +0300
+
+    Improved EMS software and Created Exploratory Testing Program...
+
+commit aaa3978414876847dcfc7921980c6d0debe00b9d
+Author: Samuel <54mx18@gmail.com>
+Date:   Thu Feb 15 21:00:53 2024 +0300
+
+    EMS code..
